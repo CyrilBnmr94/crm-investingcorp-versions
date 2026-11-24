@@ -8,7 +8,7 @@ Compter cinq minutes.
 
 Ouvrir la page des versions : https://github.com/CyrilBnmr94/crm-investingcorp-versions/releases/latest
 
-Dans « Assets », télécharger le fichier qui finit par `universal.dmg` (il fonctionne sur tous les Mac récents).
+Dans « Assets », télécharger le fichier qui finit par `aarch64.dmg` (pour les Mac Apple, M1 et suivants).
 
 ## 2. Installer
 
