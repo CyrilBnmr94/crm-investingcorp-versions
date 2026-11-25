@@ -41,3 +41,9 @@ Quand une nouvelle version est publiée, un bandeau bleu l'annonce à l'ouvertur
 ## Nouveau Mac ou Mac réinstallé
 
 Installer l'application comme ci-dessus, créer un code provisoire, puis dans « Réglages » choisir le dossier iCloud des sauvegardes et restaurer la plus récente. Le code d'accès redevient celui d'avant.
+
+## Droits
+
+© 2026 Cyril Benamara. Tous droits réservés.
+
+Les composants open source inclus dans l'application restent soumis à leurs propres licences.
